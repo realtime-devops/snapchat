@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 hello buddy
-=======
-hello 
-this is the sample file and file file. 
->>>>>>> parent of 60358bf (updated)
